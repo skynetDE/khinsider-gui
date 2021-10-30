@@ -2,7 +2,7 @@
 # khinsider-gui
 A GUI for khinsider to download soundtracks (because of a paywall...)
 
-![khi](https://user-images.githubusercontent.com/93412725/139516044-659e45c7-2606-4804-82cd-f13289b3b707.jpg)
+![khi](https://user-images.githubusercontent.com/93412725/139517301-db1bbad9-660f-4842-a1f6-2cceb0e2c59b.jpg)
 
 ### Features
 
