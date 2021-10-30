@@ -24,10 +24,11 @@ A GUI for khinsider to download soundtracks (because of a paywall...)
 
 ## Usage
 
- 1. Adjust the configuration to your needs
- 2. Load the whole catalog via `File -> Refresh Catalog`
- 3. Scroll through the albums or use the full text search field above the list
- 4. Drag and Drop albums from the left to the right list
- 5. Click on "Download" and choose a destination
+ 1. Download latest version from the [Release Page](https://github.com/skynetDE/khinsider-gui/releases)
+ 2. Adjust the configuration to your needs
+ 3. Load the whole catalog via `File -> Refresh Catalog`
+ 4. Scroll through the albums or use the full text search field above the list
+ 5. Drag and Drop albums from the left to the right list
+ 6. Click on "Download" and choose a destination
 
 In order to clear the list of selected albums you can either use the Delete-Key on your keyboard or use the "Clear" button.
